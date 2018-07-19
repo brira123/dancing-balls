@@ -1,0 +1,10 @@
+div {
+    border: 10px solid black;
+    border-radius: 1000px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+}
