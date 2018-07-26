@@ -7,4 +7,5 @@ div {
     justify-content: center;
     align-items: center;
     font-size: 70px;
+    transition: all 1s;
 }
