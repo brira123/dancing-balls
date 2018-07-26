@@ -10,7 +10,6 @@ function changeSize() {
     circle.style.border = "10px solid purple";
     circle.style["font-size"] = (newSize / 100) + "em";
     circle.style.color = "purple";
-    circle.style.transition = "all 1s";
 
     let red = parseInt(Math.random() * 256);
     let green = parseInt(Math.random() * 256);
